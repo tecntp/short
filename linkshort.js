@@ -16,6 +16,6 @@ link.style.display = '';
 timerDiv.innerHTML="";
 return;
 }
-timerDiv.innerHTML=count + "...";
+timerDiv.innerHTML=count + "..";
 }
 }
